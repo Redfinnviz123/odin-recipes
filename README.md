@@ -1,1 +1,1 @@
-# odin-recipes
+This is my second attempt at this project. The first one did not go as planned but did show me what I needed to brush up on, once I complete this project I'll edit this with what I learned.
